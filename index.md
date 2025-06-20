@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # 👋 Hi, I’m Anjali Jaiswal
 
 I’m a full-stack developer and AWS Certified Solutions Architect with 6+ years of experience delivering scalable web applications and cloud-native solutions for startups and enterprise clients like Meta, Microsoft, and Viasat.
