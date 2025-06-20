@@ -19,4 +19,4 @@ Analyzed NYC Airbnb data to visualize average room prices and availability by ne
 ## 📫 Contact Me
 
 - Email: jaiswalanjali43@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/anjali-jaiswal-4120a89a/](https://www.linkedin.com/in/anjali-jaiswal-4120a89a/)
+- LinkedIn: [Anjali Jaiswal](https://www.linkedin.com/in/anjali-jaiswal-4120a89a/)
