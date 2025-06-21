@@ -19,16 +19,16 @@ Next.js, Firebase, HTML5, React, CSS
 
 <div class="carousel">
 <a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
-  <img class="carousel-image" src="/assets/Acronyms/Figure1.png" alt="Figure 1" />
+  <img class="carousel-image" src="/assets/AirbnbDashboard/Figure1.png" alt="Figure 1" />
 </a>
 <a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
-  <img class="carousel-image" src="/assets/Acronyms/Figure2.png" alt="Figure 2" />
+  <img class="carousel-image" src="/assets/AirbnbDashboard/Figure2.png" alt="Figure 2" />
 </a>
 <a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
-  <img class="carousel-image" src="/assets/Acronyms/Figure3.png" alt="Figure 3" />
+  <img class="carousel-image" src="/assets/AirbnbDashboard/Figure3.png" alt="Figure 3" />
 </a>
 <a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
-  <img class="carousel-image" src="/assets/Acronyms/Figure4.png" alt="Figure 4" />
+  <img class="carousel-image" src="/assets/AirbnbDashboard/Figure4.png" alt="Figure 4" />
 </a>
 </div>
 
