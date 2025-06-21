@@ -34,17 +34,33 @@ Developed user experiences for both the web-based acronym search and admin confi
 #### Skills
 React, Node.js, C#, JavaScript, HTML, CSS
 
-## 🖼 Snapshots
+#### Snapshots
 
 <div class="carousel">
+<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure1.png" alt="Figure 1" />
+</a>
+<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure2.png" alt="Figure 2" />
+</a>
+<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure3.png" alt="Figure 3" />
+</a>
+<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure4.png" alt="Figure 4" />
+</a>
+<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure7.png" alt="Figure 7" />
+</a>
+<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure9.png" alt="Figure 9" />
+</a>
+<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure10.png" alt="Figure 10" />
+</a>
+<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure18.png" alt="Figure 18" />
+</a>
 </div>
 
 <style>
