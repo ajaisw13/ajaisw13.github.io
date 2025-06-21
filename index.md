@@ -15,6 +15,7 @@ Developed an Airbnb NYC Housing Analytics Dashboard to visualize trends such as 
 #### Skills
 Next.js, Firebase, HTML5, React, CSS
 
+
 ### [Image Gallery](https://github.com/ajaisw13/Image-Gallery-fullstack)
 Developed an Image Gallery application enabling users to upload images along with titles. Implemented functionality for users to add, view, and search images based on their titles for efficient image management
 
@@ -32,6 +33,15 @@ Developed user experiences for both the web-based acronym search and admin confi
 
 #### Skills
 React, Node.js, C#, JavaScript, HTML, CSS
+
+#### Snapshots
+![Figure1](/assets/Acronyms/Figure1.png)
+![Figure2](/assets/Acronyms/Figure2.png)
+![Figure3](/assets/Acronyms/Figure3.png)
+![Figure4](/assets/Acronyms/Figure7.png)
+![Figure5](/assets/Acronyms/Figure9.png)
+![Figure6](/assets/Acronyms/Figure10.png)
+![Figure7](/assets/Acronyms/Figure18.png)
 
 ## 💼 Resume
 
