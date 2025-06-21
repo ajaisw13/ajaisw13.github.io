@@ -34,14 +34,36 @@ Developed user experiences for both the web-based acronym search and admin confi
 #### Skills
 React, Node.js, C#, JavaScript, HTML, CSS
 
-#### Snapshots
-![Figure1](/assets/Acronyms/Figure1.png)
-![Figure2](/assets/Acronyms/Figure2.png)
-![Figure3](/assets/Acronyms/Figure3.png)
-![Figure4](/assets/Acronyms/Figure7.png)
-![Figure5](/assets/Acronyms/Figure9.png)
-![Figure6](/assets/Acronyms/Figure10.png)
-![Figure7](/assets/Acronyms/Figure18.png)
+## 🖼 Snapshots
+
+<div class="carousel">
+  <img class="carousel-image" src="/assets/Acronyms/Figure1.png" alt="Figure 1" />
+  <img class="carousel-image" src="/assets/Acronyms/Figure2.png" alt="Figure 2" />
+  <img class="carousel-image" src="/assets/Acronyms/Figure3.png" alt="Figure 3" />
+  <img class="carousel-image" src="/assets/Acronyms/Figure4.png" alt="Figure 4" />
+  <img class="carousel-image" src="/assets/Acronyms/Figure7.png" alt="Figure 7" />
+  <img class="carousel-image" src="/assets/Acronyms/Figure9.png" alt="Figure 9" />
+  <img class="carousel-image" src="/assets/Acronyms/Figure10.png" alt="Figure 10" />
+  <img class="carousel-image" src="/assets/Acronyms/Figure18.png" alt="Figure 18" />
+</div>
+
+<style>
+.carousel {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 16px;
+  padding: 10px 0;
+}
+.carousel-image {
+  flex: 0 0 auto;
+  width: 300px;
+  height: auto;
+  scroll-snap-align: start;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+</style>
 
 ## 💼 Resume
 
