@@ -15,6 +15,23 @@ Developed an Airbnb NYC Housing Analytics Dashboard to visualize trends such as 
 #### Skills
 Next.js, Firebase, HTML5, React, CSS
 
+#### Snapshots
+
+<div class="carousel">
+<a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
+  <img class="carousel-image" src="/assets/Acronyms/Figure1.png" alt="Figure 1" />
+</a>
+<a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
+  <img class="carousel-image" src="/assets/Acronyms/Figure2.png" alt="Figure 2" />
+</a>
+<a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
+  <img class="carousel-image" src="/assets/Acronyms/Figure3.png" alt="Figure 3" />
+</a>
+<a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
+  <img class="carousel-image" src="/assets/Acronyms/Figure4.png" alt="Figure 4" />
+</a>
+</div>
+
 
 ### [Image Gallery](https://github.com/ajaisw13/Image-Gallery-fullstack)
 Developed an Image Gallery application enabling users to upload images along with titles. Implemented functionality for users to add, view, and search images based on their titles for efficient image management
@@ -37,28 +54,28 @@ React, Node.js, C#, JavaScript, HTML, CSS
 #### Snapshots
 
 <div class="carousel">
-<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
+<a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure1.png" alt="Figure 1" />
 </a>
-<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
+<a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure2.png" alt="Figure 2" />
 </a>
-<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
+<a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure3.png" alt="Figure 3" />
 </a>
-<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
+<a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure4.png" alt="Figure 4" />
 </a>
-<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
+<a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure7.png" alt="Figure 7" />
 </a>
-<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
+<a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure9.png" alt="Figure 9" />
 </a>
-<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
+<a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure10.png" alt="Figure 10" />
 </a>
-<a href="https://github.com/ajaisw13/airbnb-dashboard" target="_blank">
+<a href="https://github.com/ajaisw13/ajaisw13.github.io" target="_blank">
   <img class="carousel-image" src="/assets/Acronyms/Figure18.png" alt="Figure 18" />
 </a>
 </div>
