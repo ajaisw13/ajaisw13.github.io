@@ -82,7 +82,7 @@ React, Node.js, C#, JavaScript, HTML, CSS
 }
 .carousel-image {
   flex: 0 0 auto;
-  width: 300px;
+  width: 400px;
   height: auto;
   scroll-snap-align: start;
   border-radius: 10px;
