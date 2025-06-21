@@ -9,7 +9,7 @@ I’m a full-stack developer and AWS Certified Solutions Architect with 6+ years
 
 ## 🔧 Projects
 
-### [Airbnb Analytics Dashboard](https://github.com/ajaisw13/airbnb-dashboard)
+### [Airbnb Analytics Dashboard](https://github.com/ajaisw13/airbnb_nyc_analytics)
 Developed an Airbnb NYC Housing Analytics Dashboard to visualize trends such as average room prices and minimum housing prices by neighborhood. Leveraged the open dataset from Kaggle to perform multiple analyses and uncover key insights across different areas of New York City.
 
 #### Skills
