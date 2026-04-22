@@ -1,9 +1,10 @@
 {
-  "name": "react-portfolio-template",
+  "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ajaisw13.github.io",
+  "homepage": "https://ajaisw13.github.io/",
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@fortawesome/free-brands-svg-icons": "^6.5.2",

@@ -12,15 +12,30 @@ function Timeline() {
       <div className="items-container">
         <h1>Career History</h1>
         <VerticalTimeline>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
+            contentArrowStyle={{ borderRight: '7px solid  white' }}
+            date="Nov 2025 - Jan 2026"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h2 className="vertical-timeline-element-title">American Express </h2>
+            <h3 className="vertical-timeline-element-subtitle">Software Engineer</h3>
+            <div className="vertical-timeline-element-subtitle">Phoenix, Arizona, United States</div>
+            <p>
+              Backend Development, DevOps & Automation, CI/CD
+            </p>
+          </VerticalTimelineElement>
         <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="Dec 2023 - Present"
+            date="July 2024 - Nov 2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h2 className="vertical-timeline-element-title">Self Employed</h2>
+            <h2 className="vertical-timeline-element-title">Interlinked</h2>
             <h3 className="vertical-timeline-element-subtitle">Software Engineer</h3>
             <div className="vertical-timeline-element-subtitle">Tempe, Arizona, United States</div>
             <p>

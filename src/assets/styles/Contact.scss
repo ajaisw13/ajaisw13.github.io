@@ -14,13 +14,10 @@
   }
 
   button:hover {
-    background-color: #5000ca;
+    background-color: blue;
     color: white;
   }
 
-  fieldset {
-    background-color: white;
-  }
 }
 
 label {
@@ -45,4 +42,40 @@ form {
 .body-form {
   width: 100% !important;
   margin-bottom: 15px !important;
+}
+
+.contact_wrapper .MuiInputBase-input {
+  color: white !important;
+  caret-color: white !important;
+}
+
+.contact-form .MuiOutlinedInput-root fieldset {
+  border-color: #ccc;
+  color: white;
+  
+}
+
+.contact_wrapper .MuiOutlinedInput-input {
+  color: white !important;
+  caret-color: white !important;
+}
+
+.contact_wrapper .MuiInputLabel-root {
+  color: white !important;
+}
+
+.contact_wrapper .MuiInputLabel-root.Mui-focused {
+  color: white !important;
+}
+.contact_wrapper .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: #1976d2;
+}
+
+.contact_wrapper .MuiOutlinedInput-root.Mui-focused {
+  background-color: white;
+
+  .MuiOutlinedInput-input {
+    color: #050f0b !important;
+    caret-color: #050f0b !important;
+  }
 }
