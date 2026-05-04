@@ -7,13 +7,20 @@ import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
     "React",
+    "Next.js",
     "TypeScript",
     "JavaScript",
+    "Node.js",
+    "Express",
+    "FastAPI",
+    "Flask",
+    "Python",
+    "Material UI",
     "HTML5",
     "CSS3",
     "SASS",
-    "Flask",
-    "Python",
+    "MongoDB",
+    "Firebase",
     "SQL",
     "PostgreSQL",
     "Postman"
@@ -23,6 +30,8 @@ const labelsSecond = [
     "Git",
     "GitHub Actions",
     "Docker",
+    "Kubernetes",
+    "Vercel",
     "AWS",
     "Azure",
     "Linux",
@@ -34,7 +43,9 @@ const labelsSecond = [
 const labelsThird = [
     "OpenAI",
     "ChatGPT",
+    "AWS Bedrock",
     "Strands Agents",
+    "Streamlit",
     "MCP",
     "Copilot"
 ];
